@@ -7,7 +7,7 @@ import java.util.Map;
  * Created by xinGao 2020/3/27
  */
 
-public class Q914_X_of_a_Kind_in_a_Deck_of_Cards {
+public class Q0914_X_of_a_Kind_in_a_Deck_of_Cards {
     //使用map 执行用时15ms 内存42.3MB
 /*    public boolean hasGroupsSizeX(int[] deck) {
         Map<Integer, Integer> m = new HashMap<>();
