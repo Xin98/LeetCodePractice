@@ -4,7 +4,7 @@ package cn.codexin.questions;
  * Created by xinGao 2020/4/9
  */
 
-public class Qinterview1719_Missing_Two_Figure {
+public class QInterview1719_Missing_Two_Figure {
 
     //要求 O(N)时间 O(1)空间
     //思路二：位运算
@@ -70,7 +70,7 @@ public class Qinterview1719_Missing_Two_Figure {
 //        return miss;
 //    }
     public static void main(String[] args) {
-        Qinterview1719_Missing_Two_Figure qinterview1719_missing_two_figure = new Qinterview1719_Missing_Two_Figure();
+        QInterview1719_Missing_Two_Figure qinterview1719_missing_two_figure = new QInterview1719_Missing_Two_Figure();
         qinterview1719_missing_two_figure.missingTwo(new int[]{2});
     }
 }
