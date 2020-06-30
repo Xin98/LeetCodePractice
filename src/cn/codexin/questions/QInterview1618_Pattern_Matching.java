@@ -4,7 +4,7 @@ package cn.codexin.questions;
  * Created by xinGao 2020/6/23
  */
 
-public class QInterview_1618_Pattern_Matching {
+public class QInterview1618_Pattern_Matching {
     public boolean patternMatching(String pattern, String value) {
         int n = value.length();
         int m = pattern.length();

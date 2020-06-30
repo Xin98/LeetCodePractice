@@ -4,7 +4,7 @@ package cn.codexin.questions;
  * Created by xinGao 2020/6/26
  */
 
-public class QInterview_0201_Remove_Duplicate_Node {
+public class QInterview0201_Remove_Duplicate_Node {
     public ListNode removeDuplicateNodes(ListNode head) {
         ListNode cur = head;
         while(cur != null) {
