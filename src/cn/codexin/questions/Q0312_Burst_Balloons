@@ -1,4 +1,4 @@
-pulic class Q0312_Burst_Balloons {
+public class Q0312_Burst_Balloons {
     public int maxCoins(int[] nums) {
         int n = nums.length;
         int[][] dp = new int[n+1][n+2];
